@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Eduardo de Sousa Marques — Desenvolvedor Full Stack</title>
+  <desc id="description">Cabeçalho em azul escuro com detalhes em ciano. Aplicações web, APIs e integrações. Brasília, DF.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117" />
+      <stop offset="1" stop-color="#13243A" />
+    </linearGradient>
+    <linearGradient id="accent" x1="50" y1="0" x2="1150" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" />
+      <stop offset="1" stop-color="#2DD4BF" />
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#94A3B8" stroke-opacity="0.06" />
+    </pattern>
+    <clipPath id="rounded">
+      <rect width="1200" height="300" rx="20" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="300" fill="url(#background)" />
+    <rect x="805" width="395" height="300" fill="url(#grid)" />
+    <path d="M50 0H1150" stroke="url(#accent)" stroke-width="4" />
+
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+      <rect x="50" y="48" width="5" height="17" rx="2.5" fill="#38BDF8" />
+      <text x="68" y="62" fill="#7DD3FC" font-size="14" font-weight="600" letter-spacing="2.2">DESENVOLVEDOR FULL STACK</text>
+      <text x="50" y="137" fill="#F8FAFC" font-size="48" font-weight="700" letter-spacing="-1.5">Eduardo de Sousa Marques</text>
+      <text x="52" y="181" fill="#CBD5E1" font-size="23">Aplicações web, APIs e integrações.</text>
+
+      <g transform="translate(52 226)">
+        <path d="M7 16S13 10.5 13 6.5a6 6 0 1 0-12 0C1 10.5 7 16 7 16Z" stroke="#64748B" stroke-width="1.5" />
+        <circle cx="7" cy="6.5" r="2" stroke="#64748B" stroke-width="1.5" />
+        <text x="26" y="12" fill="#94A3B8" font-size="14">Brasília, DF</text>
+      </g>
+    </g>
+
+    <g transform="translate(866 54)">
+      <path d="M27 35H0v120h27M183 35h27v120h-27" stroke="#334155" stroke-width="2" />
+      <rect x="29" y="13" width="152" height="164" rx="16" fill="#0D1726" stroke="#334155" />
+      <path d="M29 49h152" stroke="#334155" />
+      <circle cx="46" cy="31" r="3" fill="#38BDF8" />
+      <circle cx="58" cy="31" r="3" fill="#2DD4BF" />
+      <circle cx="70" cy="31" r="3" fill="#475569" />
+      <path d="m78 78-22 19 22 19m54-38 22 19-22 19m-19-48-16 57" stroke="#7DD3FC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M55 146h48m9 0h22m-79 12h25m9 0h45" stroke="#334155" stroke-width="3" stroke-linecap="round" />
+      <path d="M105 177v19h64" stroke="#334155" stroke-width="2" />
+      <circle cx="174" cy="196" r="5" fill="#2DD4BF" />
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="19.5" stroke="#26354A" />
+</svg>
