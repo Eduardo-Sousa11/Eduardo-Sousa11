@@ -3,23 +3,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-sousa-291b362a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Meu perfil no LinkedIn" />
-  </a>
-  <a href="mailto:dudumarques.510@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Envie um e-mail" />
-  </a>
-  <a href="https://github.com/Eduardo-Sousa11?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositórios-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore meus repositórios" />
-  </a>
+  <a href="https://www.linkedin.com/in/eduardo-sousa-291b362a4/"><img src="./assets/contato-linkedin.svg" alt="LinkedIn — meu perfil profissional" width="160" /></a>
+  <a href="mailto:dudumarques.510@gmail.com"><img src="./assets/contato-email.svg" alt="Enviar e-mail para dudumarques.510@gmail.com" width="160" /></a>
+  <a href="https://github.com/Eduardo-Sousa11?tab=repositories"><img src="./assets/contato-repositorios.svg" alt="Explorar meus repositórios no GitHub" width="160" /></a>
 </p>
 
 <p align="center">
-  <a href="#sobre-mim">Sobre mim</a> ·
-  <a href="#tecnologias">Tecnologias</a> ·
-  <a href="#projeto-em-destaque">Projeto em destaque</a> ·
-  <a href="#experiência-profissional">Experiência</a> ·
-  <a href="#formação">Formação</a>
+  <a href="#sobre-mim"><img src="./assets/nav-sobre.svg" alt="Ir para Sobre mim" width="128" /></a>
+  <a href="#tecnologias"><img src="./assets/nav-tecnologias.svg" alt="Ir para Tecnologias" width="128" /></a>
+  <a href="#projeto-em-destaque"><img src="./assets/nav-projeto.svg" alt="Ir para Projeto em destaque" width="128" /></a>
+  <a href="#experiência-profissional"><img src="./assets/nav-experiencia.svg" alt="Ir para Experiência profissional" width="128" /></a>
+  <a href="#formação"><img src="./assets/nav-formacao.svg" alt="Ir para Formação" width="128" /></a>
 </p>
 
 ## Sobre mim
@@ -30,21 +24,12 @@ Atuo do frontend ao backend, trabalhando com interfaces responsivas, autenticaç
 
 ## Tecnologias
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-</p>
-
 <picture>
   <source media="(max-width: 700px)" srcset="./assets/tecnologias-mobile.svg" />
   <img src="./assets/tecnologias.svg" alt="Tecnologias organizadas em seis categorias: frontend, backend, dados e persistência, APIs e segurança, ferramentas e automação. Lista completa em texto logo abaixo." width="100%" />
 </picture>
 
 <details>
-<summary>Ver lista de tecnologias em texto</summary>
 
 - **Frontend:** Angular, React, Vue.js, TypeScript, JavaScript, HTML e CSS.
 - **Backend:** Node.js, NestJS, Java, Spring Boot, PHP e Laravel.
@@ -65,7 +50,6 @@ Atuo do frontend ao backend, trabalhando com interfaces responsivas, autenticaç
 </a>
 
 <details>
-<summary>Ver descrição e recursos do projeto em texto</summary>
 
 ### Gestão Financeira Pessoal
 
@@ -81,8 +65,6 @@ Aplicação Full Stack para gestão de finanças pessoais, com acompanhamento de
 **Stack:** `Angular` `NestJS` `TypeScript` `MongoDB` `Mongoose` `JWT` `Docker` `Swagger`
 
 </details>
-
-**[Explorar o projeto →](https://github.com/Eduardo-Sousa11/gestao_financeira)**
 
 ## Experiência profissional
 
@@ -109,11 +91,19 @@ Aplicação Full Stack para gestão de finanças pessoais, com acompanhamento de
 
 ## Formação
 
-| Curso | Instituição | Período |
-| --- | --- | --- |
-| **Análise e Desenvolvimento de Sistemas** | Estácio | fev/2024 – jul/2026 |
-| **Curso Superior de Tecnologia (CST) — Tecnologia da Informação** | Escola Técnica de Brasília | fev/2022 – jun/2024 |
-| **Inglês** | Centro Interescolar de Línguas (CIL) | fev/2021 – nov/2023 |
+<picture>
+  <source media="(max-width: 700px)" srcset="./assets/formacao-mobile.svg" />
+  <img src="./assets/formacao.svg" alt="Formação: Análise e Desenvolvimento de Sistemas na Estácio; Curso Superior de Tecnologia em Tecnologia da Informação na Escola Técnica de Brasília; Inglês no Centro Interescolar de Línguas. Instituições e períodos detalhados em texto logo abaixo." width="100%" />
+</picture>
+
+<details>
+<summary>Consultar formação em texto</summary>
+
+- **Análise e Desenvolvimento de Sistemas — Estácio:** fev/2024 – jul/2026.
+- **Curso Superior de Tecnologia (CST) — Tecnologia da Informação — Escola Técnica de Brasília:** fev/2022 – jun/2024.
+- **Inglês — Centro Interescolar de Línguas (CIL):** fev/2021 – nov/2023.
+
+</details>
 
 ## Contato
 

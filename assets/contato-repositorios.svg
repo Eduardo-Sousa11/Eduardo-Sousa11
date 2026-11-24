@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="74" viewBox="0 0 200 74" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Repositórios</title>
+  <desc id="description">Explorar os repositórios de Eduardo-Sousa11 no GitHub.</desc>
+  <g transform="translate(0 4)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <rect x="0.75" y="0.75" width="198.5" height="64.5" rx="14" fill="#111B2A" stroke="#334155" stroke-width="1.5" />
+    <rect x="14" y="12" width="44" height="42" rx="11" fill="#A78BFA" fill-opacity="0.10" />
+    <g transform="translate(24 21) scale(1)" fill="none" stroke="#A78BFA" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M5 3h14v18H5a3 3 0 0 1 0-6h14M5 3a3 3 0 0 0-3 3v12M7 7h8M7 10h5" /></g>
+    <text x="70" y="40" fill="#E2E8F0" font-size="20" font-weight="600">Repositórios</text>
+  </g>
+</svg>
