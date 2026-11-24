@@ -38,30 +38,49 @@ Atuo do frontend ao backend, trabalhando com interfaces responsivas, autenticaç
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
 </p>
 
-| Área | Tecnologias |
-| --- | --- |
-| **Frontend** | Angular, React, Vue.js, TypeScript, JavaScript, HTML e CSS |
-| **Backend** | Node.js, NestJS, Java, Spring Boot, PHP e Laravel |
-| **Dados e persistência** | MongoDB, Mongoose e MySQL · SQL e NoSQL |
-| **APIs e segurança** | REST, Swagger, JWT, access token e refresh token |
-| **Ferramentas** | Docker, Docker Compose, Git e GitHub |
-| **Automação** | n8n, integrações de sistemas, chatbots e fluxos automatizados |
+<picture>
+  <source media="(max-width: 700px)" srcset="./assets/tecnologias-mobile.svg" />
+  <img src="./assets/tecnologias.svg" alt="Tecnologias organizadas em seis categorias: frontend, backend, dados e persistência, APIs e segurança, ferramentas e automação. Lista completa em texto logo abaixo." width="100%" />
+</picture>
+
+<details>
+<summary>Ver lista de tecnologias em texto</summary>
+
+- **Frontend:** Angular, React, Vue.js, TypeScript, JavaScript, HTML e CSS.
+- **Backend:** Node.js, NestJS, Java, Spring Boot, PHP e Laravel.
+- **Dados e persistência:** MongoDB, Mongoose e MySQL; SQL e NoSQL.
+- **APIs e segurança:** REST, Swagger, JWT, access token e refresh token.
+- **Ferramentas:** Docker, Docker Compose, Git e GitHub.
+- **Automação:** n8n, integrações de sistemas, chatbots e fluxos automatizados.
+
+</details>
 
 ## Projeto em destaque
 
-### [Gestão Financeira Pessoal](https://github.com/Eduardo-Sousa11/gestao_financeira)
+<a href="https://github.com/Eduardo-Sousa11/gestao_financeira">
+  <picture>
+    <source media="(max-width: 700px)" srcset="./assets/gestao-financeira-mobile.svg" />
+    <img src="./assets/gestao-financeira.svg" alt="Gestão Financeira Pessoal: autenticação, gestão financeira, veículos, backend, ambiente e frontend. Clique para explorar o projeto no GitHub. Descrição completa em texto logo abaixo." width="100%" />
+  </picture>
+</a>
+
+<details>
+<summary>Ver descrição e recursos do projeto em texto</summary>
+
+### Gestão Financeira Pessoal
 
 Aplicação Full Stack para gestão de finanças pessoais, com acompanhamento de contas, movimentações e despesas com veículos.
 
-| Recurso | Implementação |
-| --- | --- |
-| **Autenticação** | JWT com access token e refresh token |
-| **Gestão financeira** | Contas, categorias, movimentações e dashboard financeiro |
-| **Veículos** | Controle de veículos e abastecimentos |
-| **Backend e persistência** | NestJS, MongoDB e Mongoose, com suporte a transações |
-| **Ambiente e documentação** | Docker e Swagger |
+- **Autenticação:** JWT com access token e refresh token.
+- **Gestão financeira:** contas, categorias, movimentações e dashboard financeiro.
+- **Veículos:** controle de veículos e abastecimentos.
+- **Backend e persistência:** NestJS, MongoDB e Mongoose, com suporte a transações.
+- **Ambiente e documentação:** Docker e Swagger.
+- **Frontend:** Angular e TypeScript.
 
 **Stack:** `Angular` `NestJS` `TypeScript` `MongoDB` `Mongoose` `JWT` `Docker` `Swagger`
+
+</details>
 
 **[Explorar o projeto →](https://github.com/Eduardo-Sousa11/gestao_financeira)**
 

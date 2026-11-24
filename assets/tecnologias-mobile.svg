@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1074" viewBox="0 0 600 1074" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Tecnologias e ferramentas</title>
+  <desc id="description">Frontend, backend, dados e persistência, APIs e segurança, ferramentas e automação.</desc>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <g transform="translate(0 0)">
+      <rect x="0.75" y="0.75" width="598.5" height="162.5" rx="16" fill="#111B2A" stroke="#29384D" stroke-width="1.5" />
+      <rect x="22" y="20" width="40" height="40" rx="11" fill="#38BDF8" fill-opacity="0.10" />
+      <g transform="translate(30 28)" fill="none" stroke="#38BDF8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m8 7-5 5 5 5m8-10 5 5-5 5M14 3l-4 18" /></g>
+      <text x="78" y="46" fill="#F1F5F9" font-size="24" font-weight="650">Frontend</text>
+      <text x="576" y="44" fill="#64748B" font-size="14" font-weight="500" text-anchor="end" letter-spacing="1.5">01</text>
+      <path d="M24 76H576" stroke="#29384D" />
+      <text x="24" y="111" fill="#E2E8F0" font-size="21" font-weight="400">Angular · React · Vue.js</text>
+      <text x="24" y="141" fill="#A8B8CE" font-size="21" font-weight="400">TypeScript · JavaScript · HTML · CSS</text>
+    </g>
+    <g transform="translate(0 182)">
+      <rect x="0.75" y="0.75" width="598.5" height="162.5" rx="16" fill="#111B2A" stroke="#29384D" stroke-width="1.5" />
+      <rect x="22" y="20" width="40" height="40" rx="11" fill="#2DD4BF" fill-opacity="0.10" />
+      <g transform="translate(30 28)" fill="none" stroke="#2DD4BF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="7" rx="2" /><rect x="3" y="14" width="18" height="7" rx="2" /><path d="M7 6.5h.01M7 17.5h.01M12 6.5h5M12 17.5h5" /></g>
+      <text x="78" y="46" fill="#F1F5F9" font-size="24" font-weight="650">Backend</text>
+      <text x="576" y="44" fill="#64748B" font-size="14" font-weight="500" text-anchor="end" letter-spacing="1.5">02</text>
+      <path d="M24 76H576" stroke="#29384D" />
+      <text x="24" y="111" fill="#E2E8F0" font-size="21" font-weight="400">Node.js · NestJS · Java · Spring Boot</text>
+      <text x="24" y="141" fill="#A8B8CE" font-size="21" font-weight="400">PHP · Laravel</text>
+    </g>
+    <g transform="translate(0 364)">
+      <rect x="0.75" y="0.75" width="598.5" height="162.5" rx="16" fill="#111B2A" stroke="#29384D" stroke-width="1.5" />
+      <rect x="22" y="20" width="40" height="40" rx="11" fill="#A78BFA" fill-opacity="0.10" />
+      <g transform="translate(30 28)" fill="none" stroke="#A78BFA" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="8" ry="3" /><path d="M4 5v14c0 1.7 3.6 3 8 3s8-1.3 8-3V5M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3" /></g>
+      <text x="78" y="46" fill="#F1F5F9" font-size="24" font-weight="650">Dados e persistência</text>
+      <text x="576" y="44" fill="#64748B" font-size="14" font-weight="500" text-anchor="end" letter-spacing="1.5">03</text>
+      <path d="M24 76H576" stroke="#29384D" />
+      <text x="24" y="111" fill="#E2E8F0" font-size="21" font-weight="400">MongoDB · Mongoose · MySQL</text>
+      <text x="24" y="141" fill="#A8B8CE" font-size="21" font-weight="400">SQL · NoSQL</text>
+    </g>
+    <g transform="translate(0 546)">
+      <rect x="0.75" y="0.75" width="598.5" height="162.5" rx="16" fill="#111B2A" stroke="#29384D" stroke-width="1.5" />
+      <rect x="22" y="20" width="40" height="40" rx="11" fill="#FBBF24" fill-opacity="0.10" />
+      <g transform="translate(30 28)" fill="none" stroke="#FBBF24" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3-8 3v6c0 5 8 9 8 9s8-4 8-9V6l-8-3Z" /><path d="m8.5 12 2.5 2.5 4.5-5" /></g>
+      <text x="78" y="46" fill="#F1F5F9" font-size="24" font-weight="650">APIs e segurança</text>
+      <text x="576" y="44" fill="#64748B" font-size="14" font-weight="500" text-anchor="end" letter-spacing="1.5">04</text>
+      <path d="M24 76H576" stroke="#29384D" />
+      <text x="24" y="111" fill="#E2E8F0" font-size="21" font-weight="400">REST · Swagger · JWT</text>
+      <text x="24" y="141" fill="#A8B8CE" font-size="21" font-weight="400">Access token · Refresh token</text>
+    </g>
+    <g transform="translate(0 728)">
+      <rect x="0.75" y="0.75" width="598.5" height="162.5" rx="16" fill="#111B2A" stroke="#29384D" stroke-width="1.5" />
+      <rect x="22" y="20" width="40" height="40" rx="11" fill="#60A5FA" fill-opacity="0.10" />
+      <g transform="translate(30 28)" fill="none" stroke="#60A5FA" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 9 5-9 5-9-5 9-5ZM3 8v9l9 5 9-5V8M12 13v9M7.5 5.5l9 5" /></g>
+      <text x="78" y="46" fill="#F1F5F9" font-size="24" font-weight="650">Ferramentas</text>
+      <text x="576" y="44" fill="#64748B" font-size="14" font-weight="500" text-anchor="end" letter-spacing="1.5">05</text>
+      <path d="M24 76H576" stroke="#29384D" />
+      <text x="24" y="111" fill="#E2E8F0" font-size="21" font-weight="400">Docker · Docker Compose</text>
+      <text x="24" y="141" fill="#A8B8CE" font-size="21" font-weight="400">Git · GitHub</text>
+    </g>
+    <g transform="translate(0 910)">
+      <rect x="0.75" y="0.75" width="598.5" height="162.5" rx="16" fill="#111B2A" stroke="#29384D" stroke-width="1.5" />
+      <rect x="22" y="20" width="40" height="40" rx="11" fill="#2DD4BF" fill-opacity="0.10" />
+      <g transform="translate(30 28)" fill="none" stroke="#2DD4BF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="8" width="6" height="8" rx="2" /><rect x="16" y="2" width="6" height="6" rx="2" /><rect x="16" y="16" width="6" height="6" rx="2" /><path d="M8 12h4V5h4M12 12v7h4" /></g>
+      <text x="78" y="46" fill="#F1F5F9" font-size="24" font-weight="650">Automação</text>
+      <text x="576" y="44" fill="#64748B" font-size="14" font-weight="500" text-anchor="end" letter-spacing="1.5">06</text>
+      <path d="M24 76H576" stroke="#29384D" />
+      <text x="24" y="111" fill="#E2E8F0" font-size="21" font-weight="400">n8n · Integrações de sistemas</text>
+      <text x="24" y="141" fill="#A8B8CE" font-size="21" font-weight="400">Chatbots · Fluxos automatizados</text>
+    </g>
+  </g>
+</svg>
