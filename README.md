@@ -29,17 +29,6 @@ Atuo do frontend ao backend, trabalhando com interfaces responsivas, autenticaç
   <img src="./assets/tecnologias.svg" alt="Tecnologias organizadas em seis categorias: frontend, backend, dados e persistência, APIs e segurança, ferramentas e automação. Lista completa em texto logo abaixo." width="100%" />
 </picture>
 
-<details>
-
-- **Frontend:** Angular, React, Vue.js, TypeScript, JavaScript, HTML e CSS.
-- **Backend:** Node.js, NestJS, Java, Spring Boot, PHP e Laravel.
-- **Dados e persistência:** MongoDB, Mongoose e MySQL; SQL e NoSQL.
-- **APIs e segurança:** REST, Swagger, JWT, access token e refresh token.
-- **Ferramentas:** Docker, Docker Compose, Git e GitHub.
-- **Automação:** n8n, integrações de sistemas, chatbots e fluxos automatizados.
-
-</details>
-
 ## Projeto em destaque
 
 <a href="https://github.com/Eduardo-Sousa11/gestao_financeira">
@@ -48,23 +37,6 @@ Atuo do frontend ao backend, trabalhando com interfaces responsivas, autenticaç
     <img src="./assets/gestao-financeira.svg" alt="Gestão Financeira Pessoal: autenticação, gestão financeira, veículos, backend, ambiente e frontend. Clique para explorar o projeto no GitHub. Descrição completa em texto logo abaixo." width="100%" />
   </picture>
 </a>
-
-<details>
-
-### Gestão Financeira Pessoal
-
-Aplicação Full Stack para gestão de finanças pessoais, com acompanhamento de contas, movimentações e despesas com veículos.
-
-- **Autenticação:** JWT com access token e refresh token.
-- **Gestão financeira:** contas, categorias, movimentações e dashboard financeiro.
-- **Veículos:** controle de veículos e abastecimentos.
-- **Backend e persistência:** NestJS, MongoDB e Mongoose, com suporte a transações.
-- **Ambiente e documentação:** Docker e Swagger.
-- **Frontend:** Angular e TypeScript.
-
-**Stack:** `Angular` `NestJS` `TypeScript` `MongoDB` `Mongoose` `JWT` `Docker` `Swagger`
-
-</details>
 
 ## Experiência profissional
 
@@ -95,15 +67,6 @@ Aplicação Full Stack para gestão de finanças pessoais, com acompanhamento de
   <source media="(max-width: 700px)" srcset="./assets/formacao-mobile.svg" />
   <img src="./assets/formacao.svg" alt="Formação: Análise e Desenvolvimento de Sistemas na Estácio; Curso Superior de Tecnologia em Tecnologia da Informação na Escola Técnica de Brasília; Inglês no Centro Interescolar de Línguas. Instituições e períodos detalhados em texto logo abaixo." width="100%" />
 </picture>
-
-<details>
-<summary>Consultar formação em texto</summary>
-
-- **Análise e Desenvolvimento de Sistemas — Estácio:** fev/2024 – jul/2026.
-- **Curso Superior de Tecnologia (CST) — Tecnologia da Informação — Escola Técnica de Brasília:** fev/2022 – jun/2024.
-- **Inglês — Centro Interescolar de Línguas (CIL):** fev/2021 – nov/2023.
-
-</details>
 
 ## Contato
 
